@@ -11,11 +11,11 @@
 - `[Hint Content]` (100 points)
 
 ## Files
-- [`challenge.txt`](dist\challenge.txt)
+- [`challenge.txt`](./dist/challenge.txt)
 
 
 ## Services
-- [`test_container`](service/test_container) (port 1337)
+- [`test_container`](./service/test_container) (port 1337)
 
 
 ## Flags
