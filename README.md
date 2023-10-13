@@ -24,6 +24,8 @@ challenge_name/
     ├─ README.md
 ```
 
+*note from organizing team: please ensure that your `README.md` & `chall.yaml` contains the same information*
+
 - `dist`
   - This folder contains all the files that **will be given** to the participants, leave this folder empty if none.
 - `service`
@@ -36,6 +38,8 @@ challenge_name/
   - This folder should contain a writeup of your challenge and solution files if any.
   - If your challenge is generated using a script, please include the script in this folder.
 
-
-# Submission
-Ensure that your challenge follows the above template & file structure, zip it and submit it on the form provided.
+## Frequently Asked Questions (FAQs)
+- **Q**: If I am creating a static challenge (forensics, crypto, etc.), do I need to include a `service` folder?
+  - **A**: No, you do not need to include a `service` folder if your challenge is static.
+- **Q**: I'm having trouble submitting my challenge, what should I do?
+  - **A**: Please contact your school's LNC 2024 representative for assistance, alternatively you can contact the challenge team by opening a ticket on our [Discord](https://discord.gg/H6U6NykFRe) server.
