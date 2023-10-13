@@ -19,4 +19,4 @@ None
 
 
 ## Flags
-- `LNC2023{SecreT_Al13n_por7a1?}` (static)
+- `LNC24{SecreT_Al13n_por7a1?}` (static)
