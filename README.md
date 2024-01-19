@@ -25,6 +25,8 @@ challenge_name/
 ```
 
 *note from organizing team: please ensure that your `README.md` & `chall.yaml` contains the same information*
+* You can generate `chall.yaml` using https://github.com/Jus-Codin/CTF-Architect
+  * Please use this!
 
 - `dist`
   - This folder contains all the files that **will be given** to the participants, leave this folder empty if none.
